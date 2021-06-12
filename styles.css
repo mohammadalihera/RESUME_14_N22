@@ -300,9 +300,12 @@ img{
 .skill-row{
 	display: flex;
 	margin-bottom: 30px;
+	justify-content: space-evenly;
 }
 .skill-col{
 	margin-right: 10px;
+	width: 200px;
+
 }
 .skill-star{
 	display: flex;
